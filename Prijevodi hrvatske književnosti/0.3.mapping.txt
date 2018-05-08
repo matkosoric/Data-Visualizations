@@ -1,0 +1,29 @@
+PUT prijevodi2
+{
+  "mappings": {
+    "doc": { 
+      "properties": { 
+            "id":{ "type": "integer" },
+            "Ime i prezime autora":     { "type": "text"  }, 
+            "Naslov djela na stranom jeziku":     { "type": "text"  }, 
+            "Naslov djela na hrvatskom jeziku":     { "type": "text"  }, 
+            "Strani jezik":     { "type": "text"  }, 
+            "Ime i prezime prevoditelja":     { "type": "text"  }, 
+            "Izdavac":     { "type": "text"  }, 
+            "Urednik":     { "type": "text"  }, 
+            "Naziv biblioteke":     { "type": "text"  }, 
+            "Godina izdanja":   { "type": "integer" },
+            "Mjesto izdanja":     { "type": "text"  }, 
+            "Zemlja izdanja":     { "type": "text"  }, 
+            "Tip izdanja":     { "type": "text"  }, 
+            "Naziv publikacije":     { "type": "text"  }, 
+            "Vrsta teksta":     { "type": "text"  }, 
+            "ISBN":     { "type": "text"  }, 
+            "ISSN":     { "type": "text"  }, 
+            "Izvor":     { "type": "text"  }, 
+            "Anotacija":   { "type": "text"  }
+        }
+      }
+    }
+  }
+}
