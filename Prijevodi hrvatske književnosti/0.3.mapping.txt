@@ -1,27 +1,27 @@
-PUT prijevodi2
+PUT prijevodi
 {
   "mappings": {
     "doc": { 
       "properties": { 
             "id":{ "type": "integer" },
-            "Ime i prezime autora":     { "type": "text"  }, 
-            "Naslov djela na stranom jeziku":     { "type": "text"  }, 
-            "Naslov djela na hrvatskom jeziku":     { "type": "text"  }, 
-            "Strani jezik":     { "type": "text"  }, 
-            "Ime i prezime prevoditelja":     { "type": "text"  }, 
-            "Izdavac":     { "type": "text"  }, 
-            "Urednik":     { "type": "text"  }, 
-            "Naziv biblioteke":     { "type": "text"  }, 
+            "Ime i prezime autora":     { "type": "keyword"  }, 
+            "Naslov djela na stranom jeziku":     { "type": "keyword"  }, 
+            "Naslov djela na hrvatskom jeziku":     { "type": "keyword"  }, 
+            "Strani jezik":     { "type": "keyword"  }, 
+            "Ime i prezime prevoditelja":     { "type": "keyword"  }, 
+            "Izdavac":     { "type": "keyword"  }, 
+            "Urednik":     { "type": "keyword"  }, 
+            "Naziv biblioteke":     { "type": "keyword"  }, 
             "Godina izdanja":   { "type": "integer" },
-            "Mjesto izdanja":     { "type": "text"  }, 
-            "Zemlja izdanja":     { "type": "text"  }, 
-            "Tip izdanja":     { "type": "text"  }, 
-            "Naziv publikacije":     { "type": "text"  }, 
-            "Vrsta teksta":     { "type": "text"  }, 
-            "ISBN":     { "type": "text"  }, 
-            "ISSN":     { "type": "text"  }, 
-            "Izvor":     { "type": "text"  }, 
-            "Anotacija":   { "type": "text"  }
+            "Mjesto izdanja":     { "type": "keyword"  }, 
+            "Zemlja izdanja":     { "type": "keyword"  }, 
+            "Tip izdanja":     { "type": "keyword"  }, 
+            "Naziv publikacije":     { "type": "keyword"  }, 
+            "Vrsta teksta":     { "type": "keyword"  }, 
+            "ISBN":     { "type": "keyword"  }, 
+            "ISSN":     { "type": "keyword"  }, 
+            "Izvor":     { "type": "keyword"  }, 
+            "Anotacija":   { "type": "keyword"  }
         }
       }
     }
