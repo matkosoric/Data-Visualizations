@@ -21,5 +21,5 @@ This Zeppelin notebook uses publicly available data set of San Francisco library
 
 ### Result
 
-![San Francisco Library Usage - E-Mails per Age Group - Matko Soric](San Francisco Library - E-Mail per Age Group.png?raw=true "SF Library Usage")
+![San Francisco Library Usage - E-Mails per Age Group - Matko Soric](/San Francisco Library - E-Mail per Age Group.png?raw=true "SF Library Usage")
 
