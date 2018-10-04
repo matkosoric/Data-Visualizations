@@ -18,10 +18,10 @@ Here are several visualisations made with build-in Impala capabilities on higher
 
 ### Result
 
-![Higher Education Programs - Number of Programs per City - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "SF Library Usage")
+![Higher Education Programs - Number of Programs per City - Matko Soric](https://github.com/matkosoric/Data-Visualizations/blob/master/Impala/Croatian%20Higher%20Education%20Programs/Number_of_programs_per_city.png?raw=true "SF Library Usage")
 
-![Higher Education Programs - Private and Public per field - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Private and Public per field")
+![Higher Education Programs - Private and Public per field - Matko Soric](https://github.com/matkosoric/Data-Visualizations/blob/master/Impala/Croatian%20Higher%20Education%20Programs/Number_of_private_and_public_programs_per_field.png?raw=true "Private and Public per field")
 
-![Higher Education Programs - Top 12 Programs - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Top 12 Programs")
+![Higher Education Programs - Top 12 Programs - Matko Soric](https://github.com/matkosoric/Data-Visualizations/blob/master/Impala/Croatian%20Higher%20Education%20Programs/Top_12_programs.png?raw=true "Top 12 Programs")
       
     
