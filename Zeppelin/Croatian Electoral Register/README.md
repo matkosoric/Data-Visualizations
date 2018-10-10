@@ -1,0 +1,29 @@
+
+Croatian Electorial Register
+===================================================
+
+
+This Zeppelin notebook explores dataset of adresses with registered voters in Croatia. First visualization present the ratio of voters per county, with grad Zagreb as a dominating region. Second visualization presents top ten streets with the most voters. Most of them are in Zagreb, followed by Split and Osijek. The third visualization neglects information about voters and list top 10 most common street names across different cities. Original csv file is saved as a gzip compressed parquet file.
+
+
+
+### Original DataSet
+
+* [Croatian Electorial Register - data.gov.hr](https://data.gov.hr/dataset/registar-biraca)
+
+
+### Created With
+
+* [Hortonworks Data Platform 3.0](https://hortonworks.com/products/data-platforms/hdp/) - Both Spark and Zeppelin were from this distribution
+* [Apache Spark 2.3.0](http://spark.apache.org/) - Big Data Analytics Engine
+* [Apache Zeppelin 0.7.3.](https://zeppelin.apache.org/) - Visualization Tool
+
+
+### Result
+
+![Croatian Electorial Register - Ratio of voters per county - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Ratio of voters per county")
+
+![Croatian Electorial Register - Top 10 streets with the biggest number of voters - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Top 10 streets with the biggest number of voters")
+      
+![Croatian Electorial Register - Top 10 most common street names - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Top 10 most common street names")
+    
