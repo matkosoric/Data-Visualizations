@@ -21,9 +21,9 @@ This Zeppelin notebook explores dataset of adresses with registered voters in Cr
 
 ### Result
 
-![Croatian Electorial Register - Ratio of voters per county - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Ratio of voters per county")
+![Croatian Electorial Register - Ratio of voters per county - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/Croatian%20Electoral%20Register/ratio_per_county.png?raw=true "Ratio of voters per county")
 
-![Croatian Electorial Register - Top 10 streets with the biggest number of voters - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Top 10 streets with the biggest number of voters")
+![Croatian Electorial Register - Top 10 streets with the biggest number of voters - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/Croatian%20Electoral%20Register/streets_with_the_most_voters.png?raw=true "Top 10 streets with the biggest number of voters")
       
-![Croatian Electorial Register - Top 10 most common street names - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/San%20Francisco%20Library/San%20Francisco%20Library%20-%20E-Mail%20per%20Age%20Group.png?raw=true "Top 10 most common street names")
+![Croatian Electorial Register - Top 10 most common street names - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Zeppelin/Croatian%20Electoral%20Register/most_common_street_names.png?raw=true "Top 10 most common street names")
     
