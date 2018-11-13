@@ -1,0 +1,23 @@
+
+PUT italia
+{
+  "mappings": {
+    "doc": { 
+      "properties": { 
+
+              "location":     { "type": "geo_point"  }, 
+              "NUMBER":     { "type": "keyword"  }, 
+              "STREET":     { "type": "keyword"  }, 
+              "UNIT":     { "type": "keyword"  }, 
+              "CITY":     { "type": "keyword"  }, 
+              "DISTRICT":     { "type": "keyword"  }, 
+              "REGION":     { "type": "keyword"  }, 
+              "POSTCODE":     { "type": "keyword"  }, 
+              "ID":     { "type": "keyword"  }, 
+              "HASH":     { "type": "keyword"  }
+
+        }
+      }
+    }
+  }
+}
