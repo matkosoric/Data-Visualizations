@@ -18,7 +18,7 @@ Here are four datasets regarding medical protection for pre-school children, wom
 
 ### Results
 
-![Ratio of Dentists and Patients by City on a Scatter Plot - Matko Soric](https://github.com/matkosoric/Data-Visualizations/blob/master/Impala/Croatian%20Higher%20Education%20Programs/Number_of_programs_per_city.png?raw=true "Ratio of Dentists and Patients by City on a Scatter Plot")
+![Ratio of Dentists and Patients by City on a Scatter Plot - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Impala/Dentists/DentistPatientRatiobyCity.png?raw=true "Ratio of Dentists and Patients by City on a Scatter Plot")
       
-![Ratio of Private and public dentists by City - Matko Soric](https://github.com/matkosoric/Data-Visualizations/blob/master/Impala/Croatian%20Higher%20Education%20Programs/Number_of_programs_per_city.png?raw=true "Ratio of Private and public dentists by City")
+![Ratio of Private and Public Dentists by City - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Impala/Dentists/PrivatePublicDentistsByCity.png?raw=true "Ratio of Private and public dentists by City")
     
