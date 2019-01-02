@@ -1,5 +1,5 @@
 
-Visual Data Exploration with Orange
+Visual Data Exploration Air Quality Data Set
 =======================================================
 
 Visualizating standard ML dataset about air quality. The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level, within an Italian city. Missing values are tagged with -200 value, which is clearly visible on scatter plots and heat map. I created two scatter plots, one mosaic display, and one heat map, without any data preprocessing.
