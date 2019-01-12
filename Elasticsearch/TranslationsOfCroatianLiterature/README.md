@@ -36,7 +36,7 @@ I downloaded the data set from the official government site in csv format. The c
   
 ![Translations by language - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/TranslationsOfCroatianLiterature/4.translations_by_language.JPG?raw=true "Translations by language - Matko Soric")
   
-![Translations by language 2 - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/TranslationsOfCroatianLiterature/4.translations_by_language_2.JPG?raw=true "Translations by language 2 - Matko Soric")
+![Translations by language 2 - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/TranslationsOfCroatianLiterature/5.translations_by_language_2.JPG?raw=true "Translations by language 2 - Matko Soric")
   
 ![Translations by country - Matko Soric](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/Elasticsearch/TranslationsOfCroatianLiterature/6.translations_by_country.JPG?raw=true "Translations by country - Matko Soric")
   
