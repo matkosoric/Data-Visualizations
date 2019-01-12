@@ -4,12 +4,12 @@ Visual Exploration of the Croatian Literature Translations
 
 This is a demonstration of ELK stack's visualization capabilities.
 First visualization is a donut chart of translated authors, with Ivo Andrić leading with 14.71%.
-Second graph is a smothened area chart of translations through years, spiking in 2008m just before the economic crisis kicked in.
+Second graph is a smothened area chart of translations through years, spiking in 2008., just before the economic crisis kicked in.
 Third image is a bar chart of top publishers of Croatian literature translations.
-Fourth graph is a donut chart of translations by language. German language dominates with 21.15%, followed by English (11.09%), Slovakian(10.62%), and Slovenian (9.04%).
+Fourth graph is a donut chart of translations by language. German language dominates with 21.15%, followed by English (11.09%), Slovakian (10.62%), and Slovenian (9.04%).
 Fifth graph is identical to the previous image, with added tabular info.
 Sixth image presents area graph of number of translations grouped by country. Germany leads with over 300 published items.
-Seventh visualization is a pie chart of most commonly translated titles. First place is taken by "Na Drini ćuprija" (9.1%) by Ivo Andrić.
+Seventh visualization is a pie chart of the most commonly translated titles. First place is taken by "Na Drini ćuprija" (9.1%), written by Ivo Andrić.
 
 
 ### Original DataSet
