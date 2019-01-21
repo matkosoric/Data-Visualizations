@@ -1,0 +1,1 @@
+gawk -F ',' 'NR>1{printf("{\"_id\":\"%d\", \"Adress\":\"%s\", \"Number of microlocations\":\"%d\", \"Year\":\"%d\", \"Geolocation\":{\"type\":\"Point\", \"coordinates\":[%f,%f]}}\n", $1, $2, $3, $4, $5, $6)}' zagreb-surveillance-cameras-preprocessed.csv >> zagreb-surveillance-cameras.json
