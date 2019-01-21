@@ -2,7 +2,7 @@
 Compass and MongoDB with Zagreb Surveillance Cameras dataset
 =======================================================
 
-This is a demonstration of MongoDB's Compass visualisation capabilites with geographical data. The repository contains original csv, preprocessed csv, gawk script for transforming csv to json, and finally json prepared for importing in MongoDB. The list is not updated, and there are new cameras installed after publishing the dataset in 2016. 
+This is a demonstration of MongoDB's Compass visualisation capabilites with geographical data. The repository contains original csv, preprocessed csv, gawk script for transforming csv to json, and finally json prepared for importing in MongoDB. The list is not updated, and there are new cameras installed after publishing the dataset in 2016. First image is a classical, 'neutral' view encompassing all geolocations. Other images are zooming into particular part of the city while shifting angle.
 
 
 ### Original DataSet
