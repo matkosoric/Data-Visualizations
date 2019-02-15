@@ -1,12 +1,8 @@
 
-Croatian Higher Education Programs
+Croatian Higher Educational Programs
 ===================================================
 
-Here are several visualisations made with build-in Impala capabilities on higher education programmes available in Croatia in 2016.
-First image represents the number of programmes grouped by city. Zagreb as a capital clearly dominates over other cities.
-Second image is a stacked bar chart. Programmes are grouped by area of science, where social sciences lead with 367 units. Bars are divided by the source of founding, which is either private and public.
-Third image is a pie chart showing top twelve programs in Croatia, indicating an astonishingly wide gap between formal educational system and real job market, which does not need history or philosophy experts more than it needs computer science majors. 
-Parquet file with partially cleaned data and original CSV file are included.
+Here are several visualizations made with build-in Impala capabilities on higher education programs available in Croatia in 2016. First image represents the number of programs grouped by city. Zagreb as the capital clearly dominates over other cities. Second image is a stacked bar chart. Programs are grouped by the area of science, where social sciences lead with 367 units. Bars are divided by the source of founding, which is either private or public. The third image is a pie chart showing top 12 programs in Croatia, indicating an astonishingly wide gap between formal educational system and the real job market, which does not need history or philosophy experts more than it needs computer science majors. Parquet file with partially cleaned data and the original csv files are included.
 
 
 ### Original DataSet

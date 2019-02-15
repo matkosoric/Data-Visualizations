@@ -1,13 +1,13 @@
 
-Visualising Geolocations in Italy using ELK stack
+Visualizing Geolocations in Italy using ELK stack
 =======================================================
 
 This is a demonstration of ELK stack geo-mapping capabilities.
 
 
-### Original DataSet
+### The original Dataset
 
-Presented data is a subset of geopoints in a zip file for Europe (https://s3.amazonaws.com/data.openaddresses.io/openaddr-collected-europe.zip) available through OpenAddresses project. I used only a couple files related to Italy (ferrara.csv, bologna.csv, statewide.csv, etc.). Circle size and color are not related to any other features in a dataset; they simply indicate a quantity of points in a certain area.
+The presented data are a subset of geo points in a zip file for Europe (https://s3.amazonaws.com/data.openaddresses.io/openaddr-collected-europe.zip) available through the OpenAddresses project. I used only a couple of files related to Italy (ferrara.csv, bologna.csv, statewide.csv, etc.). Circle size and color are not related to any other features in a dataset; they simply indicate a quantity of points in a certain area.
 
 * [OpenAddresses data](http://results.openaddresses.io/)
 

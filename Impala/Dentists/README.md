@@ -2,12 +2,13 @@
 Dentists and patients in Croatia
 ===================================================
 
-First visualization is presenting top fifteen towns with the smallest ratio of patients to dentists. Towns (or settlements) with less than 20 dentists are excluded, including Zagreb as a capital city with outlier values. Second visualization depicts the ratio of public and private dental practices in top 10 cities by overall number of dentists. Data is slightly adapted and preprocessed; it is located in accompanying csv and parquet files. Some additional attention should be devoted to the column named "Street", which contains double quotes and commas, demanding thereby some extra steps in parsing rows (hence org.apache.hadoop.hive.serde2.OpenCSVSerde).
+The first visualization represents the top fifteen towns with the smallest ratio of patients to dentists. Towns (or settlements) with less than 20 dentists are excluded, including Zagreb as the capital city with outlier values. The second visualization depicts the ratio of public and private dental practices in top 10 cities by the overall number of dentists. Data are slightly adapted and preprocessed; and is located in accompanying csv and parquet files. Some additional attention should be devoted to the column named "Street", which contains double quotes and commas, demanding thereby some extra steps in parsing rows (hence org.apache.hadoop.hive.serde2.OpenCSVSerde).
 
 
-### Original DataSet
+### The original Dataset
 
-Here are four datasets regarding medical protection for pre-school children, women, general medicine and dental health care. I was using a dataset about dental health care. 
+Here are four datasets regarding medical protection for pre-school children, women, general medicine and dental health care. I was using a dataset about dental health care.
+
 * [Popis doktora ugovorenih u djelatnosti dentalne zdravstvene zaštite - data.gov.hr](https://data.gov.hr/dataset/broj-pacijenata-po-ordinaciji-primarne-zdravstvene-za-tite)
 
 

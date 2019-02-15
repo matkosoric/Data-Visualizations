@@ -2,11 +2,7 @@
 San Francisco Library with Zeppelin Notebook
 ===================================================
 
-
-This Zeppelin notebook uses publicly available data set of San Francisco library usage.
-First image represent the ratio between members who have provided their e-mail adress and those who have not, partitioned by predefined age groups.
-Second graph is a pie chart of sum of total checkouts, grouped by home library.
-Third graph is an area chart of sum fo total checkouts, grouped by patron type, filtered by top 6 types.
+This Zeppelin notebook uses a publicly available dataset of the San Francisco library users. First image represents the ratio between members who have provided their e-mail address and those who have not, partitioned by predefined age groups. The second figure is a pie chart of the sum of total checkouts, grouped by home library. The third figure is an area chart of the sum of total checkouts, grouped by patron type, filtered by the top six types.
 
 
 ### Original DataSet

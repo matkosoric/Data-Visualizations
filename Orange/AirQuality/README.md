@@ -1,13 +1,12 @@
 
-Visual Data Exploration Air Quality Data Set
+Visual Data Exploration: Air Quality Dataset
 =======================================================
 
-Visualizating standard ML dataset about air quality. The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level, within an Italian city. Missing values are tagged with -200 value, which is clearly visible on scatter plots and heat map. I created two scatter plots, one mosaic display, and one heat map, without any data preprocessing.
+Visualizing a standard ML dataset concerning air quality. The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located in the field of a significantly polluted area, at road level, within an Italian city. Missing values are tagged with the -200 value, which is clearly visible on scatter plots and the heat map. I created two scatter plots: one is a mosaic display, and the other one a heat map; without any data pre-processing.
 
+### The original Dataset
 
-### Original DataSet
-
-Dataset with air quality parameters was downloaded from UCI Machine Learning Repository:
+A dataset with air quality parameters was downloaded from the UCI Machine Learning Repository:
 
 * [Air Quality Data Set](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 

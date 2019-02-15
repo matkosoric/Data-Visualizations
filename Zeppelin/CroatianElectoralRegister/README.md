@@ -1,11 +1,10 @@
 
-Croatian Electorial Register
+Croatian Electoral Register
 ===================================================
 
-This Zeppelin notebook explores dataset of adresses with registered voters in Croatia. Each record is an address with a matching number of registered voters. First visualization presents the ratio of voters per county, with grad Zagreb as a dominating region. Second visualization presents top ten streets with the most voters. Most of them are in Zagreb, followed by Split and Osijek. The third visualization neglects information about voters and lists top 10 most common street names across different cities. Original csv file of over 100MB is saved as a gzip compressed parquet file and a regular gzip. 
+This Zeppelin notebook explores a dataset of addresses with registered voters in Croatia. Each record is an address with a matching number of registered voters. First visualization presents the ratio of voters per county, with the Grad Zagreb County being the dominate region. Second visualization presents the top ten streets with the most voters. Most of them are in Zagreb, followed by Split and Osijek. The third visualization neglects information regarding voters and lists the top ten most common street names across different cities. Original csv file of over 100MB is saved as a gzip compressed parquet file and a regular gzip.
 
-
-### Original DataSet
+### The original Dataset
 
 * [Croatian Electorial Register - data.gov.hr](https://data.gov.hr/dataset/registar-biraca)
 

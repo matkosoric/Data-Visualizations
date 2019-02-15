@@ -1,13 +1,12 @@
 
-Compass and MongoDB with Zagreb Surveillance Cameras dataset
+Compass and MongoDB with the Zagreb Surveillance Cameras dataset
 =======================================================
 
-This is a demonstration of MongoDB's Compass visualisation capabilites with geographical data. The repository contains original csv, preprocessed csv, gawk script for transforming csv to json, and finally json prepared for importing in MongoDB. The list is not updated, and there are new cameras installed after publishing the dataset in 2016. First image is a classical, 'neutral' view encompassing all geolocations. Other images are zooming into particular part of the city while shifting angle.
-
+This is a demonstration of MongoDB's Compass visualization capabilities with geographical data. The repository contains an original csv, a preprocessed csv, a gawk script for transforming csv to json, and finally json prepared for importing in MongoDB. The list is not updated, and new cameras have been installed after the publication of the dataset in 2016. The first image is a classical, 'neutral' view, encompassing all geolocations. Other images are zooming into particular part of the city while shifting angle.
 
 ### Original DataSet
 
-I downloaded the dataset from the official Open data portal for the Republic of Croatia. It is a publicly available list of surveillance cameras with precise latitude and longitude for each camera.
+I downloaded the dataset from the official Open Data Portal of the Republic of Croatia. It is a publicly available list of surveillance cameras with precise latitude and longitude data for each camera.
 
 * [Nadzorne kamere na području grada Zagreba](https://data.gov.hr/dataset/popis-nadzornih-kamera-na-podru-ju-grada-zagreba/resource/5bc67300-8d88-4fa2-bc79-299dc41180b7)
 

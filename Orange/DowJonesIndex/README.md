@@ -1,13 +1,12 @@
 
-Visual Data Exploration of Dow Jones Index Data Set 
+Visual Data Exploration of the Dow Jones Index Dataset
 =======================================================
 
-These are three data visualizations of stock prices on Dow Jones Index. First visualization is a scatter plot of volume and previous week volume features. Second visualization is a distribution of days_to_next_dividend column, grouped by stock. Third visualization is a linear projection over three dimensions (volume, percent_change_price, and percent_change_volume_over_last_week). Original CSV without preprocessing is included in this repo.
+These are three data visualizations of stock prices on the Dow Jones Index. First visualization is a scatter plot of volume and previous week volume features. Second visualization is a distribution of the days_to_next_dividend column, grouped by stock. Third visualization is a linear projection over three dimensions (volume, percent_change_price, and percent_change_volume_over_last_week). Original csv, without pre-processing, is included in this repo.
 
+### The original Dataset
 
-### Original DataSet
-
-Dataset of Dow Jones Industrial Index was downloaded from UCI Machine Learning Repository:
+The dataset of the Dow Jones Industrial Index was downloaded from the UCI Machine Learning Repository:
 
 * [Dow Jones Index Data Set ](https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index)
 
