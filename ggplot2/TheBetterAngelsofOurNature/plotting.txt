@@ -28,3 +28,12 @@ ggplot(data=subset(homicide_rates_across_western_europe, Year>=1900), aes(x=Year
   scale_x_continuous(breaks = seq(1900, 2020, by = 10))
 
 ggsave("3.Homicide_Rates_in_Western_Europe.png", plot = last_plot(), scale = 1, device= "png", dpi = 300, limitsize = TRUE)
+
+
+ggplot(data=wars_and_atrocities, aes(x=Century, y=reorder(Conflict,Casualties), size=Casualties, na.rm = TRUE)) + 
+    geom_point() +
+    ylab("Conflict") + 
+    theme(legend.position="none") +
+    scale_x_continuous(breaks = seq(-5, 20, by = 1))
+
+ggsave("4.100_Worst_Wars_and_Atrocities_in_Human_History.png", plot = last_plot(), scale = 1.5, device= "png", dpi = 300, limitsize = TRUE)
