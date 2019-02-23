@@ -4,6 +4,8 @@ US Census with Splunk
 
 These Splunk visualizations were created while I was going through Coursera's "Big Data Integration and Processing" course.
 
+First figure represents a number of births for each state in 2013., 2014. and 2015.
+Second figure ilustrates a number of counties for each state in descending order. The state itself is included in the count since I forgot to set level as a filtering condition. Texas has the most counties (254), and District of Columbia the fewest(1). 
 
 ### The original Dataset
 
