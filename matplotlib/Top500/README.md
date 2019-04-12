@@ -2,14 +2,19 @@
 Top 500 companies in Croatian IT 
 ===================================================
 
+First five images are presenting relation of company's capital to the annual profit, while simultaneously showing relations of company size and type of main economic activity.
+X axis is mapped to annual profit, Y axis is mapped to capital and reserves. Circle size is correlated to the number of employees, while circle color represents type of work in the IT sector, such as computer programming, counseling(6202), wireless communication (6120), data analysis (6311), equipment management (6203), or uncategorized activity (6209). 
+First image clearly illustrates extremely dominating position of T-Com company.
+Following images are presenting the same data with different levels of zoom.
+Last figure is a bar chart, revealing Zagreb as a software center, and computer programming as a sole activity of companies in different cities.
 
-
-
+  
 ### Original DataSet
 
 I used the data from a report about top 1000 companies in Croatian IT according to different criteria.
 Then I merged them using Spark 2.4.
 Some companies did not make it to final list intentionally, so that the combined dataset has all values in all columns.
+I was using the same data in Apache Superset project, but that images are misleading due to the numerous bugs in Superset as still incubating project.
 
 * [Who is Who in IT](https://whoiswhoinit.com/novosti/29-najboljih-1000-hrvatskih-visoko-tehnoloskih-tvrtki-po-kriteriju-kapitala-i-rezervi)
 
@@ -32,4 +37,4 @@ Some companies did not make it to final list intentionally, so that the combined
 
 ![5.CapitalProfitAndCompanySize - Matko Sorić](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/matplotlib/Top500/5.CapitalProfitAndCompanySize.png?raw=true "5.Capital, Profit and Company Size - Matko Sorić")
 
-![6.Number of Companies by Size - Matko Sorić](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/matplotlib/Top500/NumberOfCompaniesByCity.png?raw=true "6.Number of Companies by Size - Matko Sorić")
+![6.Number of Companies by Size - Matko Sorić](https://raw.githubusercontent.com/matkosoric/Data-Visualizations/master/matplotlib/Top500/6.NumberOfCompaniesByCity.png?raw=true "6.Number of Companies by Size - Matko Sorić")
