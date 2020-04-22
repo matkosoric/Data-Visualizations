@@ -1,5 +1,5 @@
 
-Munich Population with PowerBI Splunk
+Munich Population with PowerBI
 ===================================================
 
  
